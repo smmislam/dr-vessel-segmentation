@@ -1,4 +1,4 @@
-# Retinal Vessel Segmentation using Multi-Scale CNN
+# Semantic Segmentation of Retinal Blood Vessel via Multi-scale Convolutional Neural Network
 
 This is the source code for segmenting retinal blood vessels from raw Fundus images, which can be used to increase the accuracy of Diabetic Retinopathy diagnosis. This work has been published at **Proceedings of International Joint Conference on Computational Intelligence, 2019** as part of the **Algorithms for Intelligent Systems** book series.
 
