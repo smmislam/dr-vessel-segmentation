@@ -3,6 +3,10 @@
 This is the source code for segmenting retinal blood vessels from raw Fundus images, which can be used to increase the accuracy of Diabetic Retinopathy diagnosis. This work has been published at **Proceedings of International Joint Conference on Computational Intelligence, 2019** as part of the **Algorithms for Intelligent Systems** book series.
 
 
+# Literature Source
+This literature can be accessed from [Springer](https://link.springer.com/chapter/10.1007/978-981-15-3607-6_18), [Pre-print](https://www.researchgate.net/publication/336890473_Semantic_Segmentation_of_Retinal_Blood_Vessel_via_Multi-_Scale_Convolutional_Neural_Network).
+
+
 # Citation
 If you are using this source code or the obtained results of this work, please cite the following publication.
 
