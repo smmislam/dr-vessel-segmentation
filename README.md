@@ -8,7 +8,7 @@ This literature can be accessed from [Springer](https://link.springer.com/chapte
 
 
 # Citation
-If you are using this source code or the obtained results of this work, please cite the following publication.
+If you find this work useful, please cite the following publication.
 
 **Title:** Semantic Segmentation of Retinal Blood Vessel via Multi-scale Convolutional Neural Network\
 **Author:** SM Mazharul Islam\
